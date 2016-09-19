@@ -19,11 +19,12 @@ data = response.read().decode("utf-8")
 #use the json.loads method to obtain a dictionary representation of the responose string 
 dataDict = json.loads(data)
 
-bus_len = len(dataDict['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'])
+data = dataDict['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity']
+bus_len = len(data)
 
 print ("Bus Line : " + bus)
 print ("Number of Active Buses : %d" %(bus_len))
 for i in range(bus_len):
-    lo = dataDict['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][i]['MonitoredVehicleJourney']['VehicleLocation']['Longitude']
-    la = dataDict['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude']
+    lo = data[i]['MonitoredVehicleJourney']['VehicleLocation']['Longitude']
+    la = data[i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude']
     print ("Bus %d is at latitude %f and longitude %f" % (i, la, lo)) 

@@ -20,16 +20,19 @@ data = response.read().decode("utf-8")
 #use the json.loads method to obtain a dictionary representation of the responose string 
 dataDict = json.loads(data)
 
-bus_len = len(dataDict['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'])
+data = dataDict['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity']
+bus_len = len(data)
 
 fout.write("Latitude,Longitude,Stop Name,Stop Status\n")
 for i in range(bus_len):
-    lo = dataDict['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][i]['MonitoredVehicleJourney']['VehicleLocation']['Longitude']
-    la = dataDict['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude']
-    sn = dataDict['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][i]['MonitoredVehicleJourney']['MonitoredCall']['StopPointName']
-    ss = dataDict['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][i]['MonitoredVehicleJourney']['MonitoredCall']['Extensions']['Distances']['PresentableDistance']
-    if ss == "":
+    lo = data[i]['MonitoredVehicleJourney']['VehicleLocation']['Longitude']
+    la = data[i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude']
+    if data[i]['MonitoredVehicleJourney']['MonitoredCall'] == {}:
+        sn = "N/A"
         ss = "N/A"
+    else:
+        sn = data[i]['MonitoredVehicleJourney']['MonitoredCall']['StopPointName']    
+        ss = data[i]['MonitoredVehicleJourney']['MonitoredCall']['Extensions']['Distances']['PresentableDistance']
     fout.write("%f,%f,%s,%s\n" % (la, lo, sn, ss))
     
 fout.close()

@@ -14,10 +14,10 @@ bus = sys.argv[2]
 url = "http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=%s&VehicleMonitoringDetailLevel=calls&LineRef=%s" %(apikey, bus)
 
 response = urllib2.urlopen(url)
-data = response.read().decode("utf-8")
+d = response.read().decode("utf-8")
 
 #use the json.loads method to obtain a dictionary representation of the responose string 
-dataDict = json.loads(data)
+dataDict = json.loads(d)
 
 data = dataDict['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity']
 bus_len = len(data)

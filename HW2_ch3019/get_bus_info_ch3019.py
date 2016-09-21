@@ -28,7 +28,7 @@ fout.write("Latitude,Longitude,Stop Name,Stop Status\n")
 for i in range(bus_len):
     lo = data[i]['MonitoredVehicleJourney']['VehicleLocation']['Longitude']
     la = data[i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude']
-    if data[i]['MonitoredVehicleJourney']['OnwardCalls'] == {}:
+    if data[i]['MonitoredVehicleJourney']['OnwardCalls'] == []:
         sn = 'N/A'
         ss = 'N/A'
     else:

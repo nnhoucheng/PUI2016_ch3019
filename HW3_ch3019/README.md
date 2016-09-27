@@ -6,7 +6,7 @@ Data from Citibike Jan 2015 csv file.
 
 Announcement: 
 
-The following python sentence in order to change data type may take quite a few seconds. If testing, wait a minute, it works.
+The following python sentence in the "Display the reducted dataframe" section in order to change data type may take quite a few seconds. If testing, wait a minute, it works.
 
 data["date"] = pd.to_datetime(data["starttime"])
 

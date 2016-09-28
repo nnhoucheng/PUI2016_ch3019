@@ -6,6 +6,8 @@ State the idea and develope the corresponding null hypothesis and alternative hy
 
 Download and display data from Citibike Jan 2015 csv file. Display reducted data and plot the distribution.<br />
 
+<br />
+
 Announcement: 
 
 The following python sentence in the "Display the reducted dataframe" section in order to change data type may take quite a few seconds. If testing, wait a minute, it works.

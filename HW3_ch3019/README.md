@@ -6,7 +6,8 @@ State the idea and develope the corresponding null hypothesis and alternative hy
 
 Download and display data from Citibike Jan 2015 csv file. Display reducted data and plot the distribution.
 
-
+&nbsp
+&nbsp
 
 Announcement: 
 

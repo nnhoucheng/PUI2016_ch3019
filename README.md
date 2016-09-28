@@ -1,1 +1,1 @@
-# PUI2016 Homework for Cheng Hou (NetID: ch3019)
+# PUI2016 Homework of Cheng Hou (NetID: ch3019)

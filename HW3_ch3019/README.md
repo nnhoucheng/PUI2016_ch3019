@@ -1,8 +1,11 @@
 ### Assignment 1
-Generate the distributions for chi-squared, binomial, gaussian, logistic and poisson distribution.
+Generate 100 the distributions for each chi-squared, binomial, gaussian, logistic and poisson distribution. Display a scatter plot and a histogram plot with Gaussian fit curve for each distribution.
 
 ### Assignment 2
-Data from Citibike Jan 2015 csv file.
+State the idea and develope the corresponding null hypothesis and alternative hypothesis.
+
+Download and display data from Citibike Jan 2015 csv file. Display reducted data and plot the distribution.
+
 
 Announcement: 
 

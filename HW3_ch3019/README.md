@@ -4,10 +4,7 @@ Generate 100 the distributions for each chi-squared, binomial, gaussian, logisti
 ### Assignment 2
 State the idea and develope the corresponding null hypothesis and alternative hypothesis.
 
-Download and display data from Citibike Jan 2015 csv file. Display reducted data and plot the distribution.
-
-&nbsp
-&nbsp
+Download and display data from Citibike Jan 2015 csv file. Display reducted data and plot the distribution.<br />
 
 Announcement: 
 

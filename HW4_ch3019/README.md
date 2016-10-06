@@ -8,7 +8,7 @@
 
 ### Assignment 1
 
-My partner is Reid Kelsey (NetID: kdr276, GitHub username: kdr276). Thanks a lot for his help! My review markdown file in his GitHub repository is [here](https://github.com/kdr276/PUI2016_kdr276/blob/master/HW3_kdr276/CitibikeReview_ch3019.md). The review markdown file in my GitHub repository is[here](https://github.com/nnhoucheng/PUI2016_ch3019/blob/master/HW4_ch3019/CitibikeReview_ch3019.md).
+My partner is Reid Kelsey (NetID: kdr276, GitHub username: kdr276). Thanks a lot for his help! My review markdown file in his GitHub repository is [here](https://github.com/kdr276/PUI2016_kdr276/blob/master/HW3_kdr276/CitibikeReview_ch3019.md). The review markdown file in my GitHub repository is [here](https://github.com/nnhoucheng/PUI2016_ch3019/blob/master/HW4_ch3019/CitibikeReview_ch3019.md). The markdown file may look uncomfortable online since Github can not show some `LaTeX` marks. But it works normally in Jupyter ipython notebook markdown cell.
 
 ---
 

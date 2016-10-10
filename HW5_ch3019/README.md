@@ -7,3 +7,15 @@
 ---
 
 ### Assignment 1
+
+---
+
+### Assignment 2
+
+---
+
+### Assignment 3
+
+My null hypothesis for the 4 experiments:
+
+*

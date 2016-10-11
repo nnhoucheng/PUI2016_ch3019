@@ -28,5 +28,7 @@ My null hypothesis for the 4 experiments:
   * NULL HYPOTHESIS: More people answer yes to trust the president than the people say no in the poll.
 
 3. Effectiveness of nicotine patches to quit smoking.
+  * NULL HYPOTHESIS: The cessation rates of smokers using nicotine patch is smaller than or the same as that with placebo patch.
 
 4. Quantify the danger of smoking for pregnant women.
+  * NULL HYPOTHESIS: Average IQ of children at ages 1, 2, 3, 4 birth by women who smoke when pregnant is higher or the same as the average IQ of the other.

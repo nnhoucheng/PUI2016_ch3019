@@ -22,7 +22,7 @@ My null hypothesis for the 4 experiments:
 
 1. Do diets help lose more fat than the exercise?
   * NULL HYPOTHESIS: People in the diets test lose less percentage of body fat or the same as people from the control sample in average.
-  * $ H_0 : F_test \leqslant F_control $
+  * <img src="images/latex-image-1.png">
 
 2. Do American trust the president?
   * NULL HYPOTHESIS: More people answer yes to trust the president than the people say no in the poll.

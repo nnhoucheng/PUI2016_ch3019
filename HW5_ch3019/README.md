@@ -7,10 +7,12 @@
 ---
 
 ### Assignment 1
+My ipython notebook for assignment 1 is here.
 
 ---
 
 ### Assignment 2
+My ipython notebook for assignment 2 is here.
 
 ---
 

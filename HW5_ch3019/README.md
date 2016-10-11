@@ -26,7 +26,7 @@ My null hypothesis for the 4 experiments:
 
 2. Do American trust the president?
   * NULL HYPOTHESIS: More people answer yes to trust the president than the people say no in the poll.
-  * <img src="images/latex-image-2.png" width="208" height="20">
+  * <img src="images/latex-image-2.png" width="140" height="20">
 
 3. Effectiveness of nicotine patches to quit smoking.
   * NULL HYPOTHESIS: The cessation rates of smokers using nicotine patch is smaller than or the same as that with placebo patch.

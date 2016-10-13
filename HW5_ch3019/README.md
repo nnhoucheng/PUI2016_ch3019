@@ -7,7 +7,7 @@
 ---
 
 ### Assignment 1
-My ipython notebook for assignment 1 is here.
+My ipython notebook for assignment 1 is [here](https://github.com/nnhoucheng/PUI2016_ch3019/blob/master/HW5_ch3019/HW5_1_ch3019.ipynb).
 
 ---
 

@@ -3,9 +3,13 @@
 
 **NetID:** ch3019
 
+I worked with my groupmates: Kevin Han, Xiaomeng Dong, Yue Cai
+
 ---
 
 ## Assignment 1
+
+My ipython notebook for assignment 1 is [here](https://github.com/nnhoucheng/PUI2016_ch3019/blob/master/HW6_ch3019/HW6_1_ch3019.ipynb).
 
 ---
 

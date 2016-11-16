@@ -8,3 +8,17 @@
 
 ---
 ## Assignment 2: Peer review of 2 classmate’s plots
+
+The plots I have to review are those of
+
+#### Kulkarni Shalmali Chandrashekhar, sck408, skulkarni2,
+
+* The Review markdown file is [here](https://github.com/nnhoucheng/PUI2016_ch3019/blob/master/HW8_ch3019/Review_sck408_ch3019.md)
+
+* The original repository is [here](https://github.com/skulkarni2/PUI2016_sck408/tree/master/HW7_sck408)
+
+#### Kulkarni Sunny Krantikumar, skk456, sunnyk-skk456,
+
+* The Review markdown file is [here](https://github.com/nnhoucheng/PUI2016_ch3019/blob/master/HW8_ch3019/Review_skk456_ch3019.md)
+
+* The original repository is [here](https://github.com/sunnyk-skk456/PUI2016_skk456/tree/master/HW7_skk456)

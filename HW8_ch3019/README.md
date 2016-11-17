@@ -5,6 +5,7 @@
 
 ---
 ## Assignment 1: Finish Data Linkage Lab.
+My ipython notebook for Assignment 1 is [here](https://github.com/nnhoucheng/PUI2016_ch3019/blob/master/HW8_ch3019/HW8_1_ch3019.ipynb)
 
 ---
 ## Assignment 2: Peer review of 2 classmate’s plots

@@ -16,3 +16,6 @@ My ipython notebook for assignment 1 is [here](https://github.com/nnhoucheng/PUI
 ## Assignment 2
 
 My authorea writeup is [here](https://www.authorea.com/users/106379/articles/133192/_show_article).
+
+# FBB
+good, see comments in the authorea article

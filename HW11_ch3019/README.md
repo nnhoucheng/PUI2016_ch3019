@@ -1,9 +1,9 @@
 # Homework 11 for PUI 2016
-Thursday Session
-
 ** Name:** Cheng Hou
 
 ** NetID:** ch3019
+
+Thursday Session
 
 Thank you for Dongjie Fan
 ---

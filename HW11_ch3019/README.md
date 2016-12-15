@@ -1,7 +1,7 @@
 # Homework 11 for PUI 2016
-** Name:** Cheng Hou
+**Name:** Cheng Hou
 
-** NetID:** ch3019
+**NetID:** ch3019
 
 Thursday Session
 

@@ -1,0 +1,195 @@
+GEO.id,Id
+geo_id2,Id2
+geo_display-label,Geography
+hc01_vc01,Number; Total population
+hc02_vc01,Percent; Total population
+hc01_vc03,Number; Total population - SEX AND AGE - Male
+hc02_vc03,Percent; Total population - SEX AND AGE - Male
+hc01_vc04,Number; Total population - SEX AND AGE - Female
+hc02_vc04,Percent; Total population - SEX AND AGE - Female
+hc01_vc05,Number; Total population - SEX AND AGE - Under 5 years
+hc02_vc05,Percent; Total population - SEX AND AGE - Under 5 years
+hc01_vc06,Number; Total population - SEX AND AGE - 5 to 9 years
+hc02_vc06,Percent; Total population - SEX AND AGE - 5 to 9 years
+hc01_vc07,Number; Total population - SEX AND AGE - 10 to 14 years
+hc02_vc07,Percent; Total population - SEX AND AGE - 10 to 14 years
+hc01_vc08,Number; Total population - SEX AND AGE - 15 to 19 years
+hc02_vc08,Percent; Total population - SEX AND AGE - 15 to 19 years
+hc01_vc09,Number; Total population - SEX AND AGE - 20 to 24 years
+hc02_vc09,Percent; Total population - SEX AND AGE - 20 to 24 years
+hc01_vc10,Number; Total population - SEX AND AGE - 25 to 34 years
+hc02_vc10,Percent; Total population - SEX AND AGE - 25 to 34 years
+hc01_vc11,Number; Total population - SEX AND AGE - 35 to 44 years
+hc02_vc11,Percent; Total population - SEX AND AGE - 35 to 44 years
+hc01_vc12,Number; Total population - SEX AND AGE - 45 to 54 years
+hc02_vc12,Percent; Total population - SEX AND AGE - 45 to 54 years
+hc01_vc13,Number; Total population - SEX AND AGE - 55 to 59 years
+hc02_vc13,Percent; Total population - SEX AND AGE - 55 to 59 years
+hc01_vc14,Number; Total population - SEX AND AGE - 60 to 64 years
+hc02_vc14,Percent; Total population - SEX AND AGE - 60 to 64 years
+hc01_vc15,Number; Total population - SEX AND AGE - 65 to 74 years
+hc02_vc15,Percent; Total population - SEX AND AGE - 65 to 74 years
+hc01_vc16,Number; Total population - SEX AND AGE - 75 to 84 years
+hc02_vc16,Percent; Total population - SEX AND AGE - 75 to 84 years
+hc01_vc17,Number; Total population - SEX AND AGE - 85 years and over
+hc02_vc17,Percent; Total population - SEX AND AGE - 85 years and over
+hc01_vc18,Number; Total population - SEX AND AGE - Median age (years)
+hc02_vc18,Percent; Total population - SEX AND AGE - Median age (years)
+hc01_vc19,Number; Total population - SEX AND AGE - 18 years and over
+hc02_vc19,Percent; Total population - SEX AND AGE - 18 years and over
+hc01_vc20,Number; Total population - SEX AND AGE - 18 years and over - Male
+hc02_vc20,Percent; Total population - SEX AND AGE - 18 years and over - Male
+hc01_vc21,Number; Total population - SEX AND AGE - 18 years and over - Female
+hc02_vc21,Percent; Total population - SEX AND AGE - 18 years and over - Female
+hc01_vc22,Number; Total population - SEX AND AGE - 21 years and over
+hc02_vc22,Percent; Total population - SEX AND AGE - 21 years and over
+hc01_vc23,Number; Total population - SEX AND AGE - 62 years and over
+hc02_vc23,Percent; Total population - SEX AND AGE - 62 years and over
+hc01_vc24,Number; Total population - SEX AND AGE - 65 years and over
+hc02_vc24,Percent; Total population - SEX AND AGE - 65 years and over
+hc01_vc25,Number; Total population - SEX AND AGE - 65 years and over - Male
+hc02_vc25,Percent; Total population - SEX AND AGE - 65 years and over - Male
+hc01_vc26,Number; Total population - SEX AND AGE - 65 years and over - Female
+hc02_vc26,Percent; Total population - SEX AND AGE - 65 years and over - Female
+hc01_vc28,Number; Total population - RACE - One race
+hc02_vc28,Percent; Total population - RACE - One race
+hc01_vc29,Number; Total population - RACE - One race - White
+hc02_vc29,Percent; Total population - RACE - One race - White
+hc01_vc30,Number; Total population - RACE - One race - Black or African American
+hc02_vc30,Percent; Total population - RACE - One race - Black or African American
+hc01_vc31,Number; Total population - RACE - One race - American Indian and Alaska Native
+hc02_vc31,Percent; Total population - RACE - One race - American Indian and Alaska Native
+hc01_vc32,Number; Total population - RACE - One race - Asian
+hc02_vc32,Percent; Total population - RACE - One race - Asian
+hc01_vc33,Number; Total population - RACE - One race - Asian - Asian Indian
+hc02_vc33,Percent; Total population - RACE - One race - Asian - Asian Indian
+hc01_vc34,Number; Total population - RACE - One race - Asian - Chinese
+hc02_vc34,Percent; Total population - RACE - One race - Asian - Chinese
+hc01_vc35,Number; Total population - RACE - One race - Asian - Filipino
+hc02_vc35,Percent; Total population - RACE - One race - Asian - Filipino
+hc01_vc36,Number; Total population - RACE - One race - Asian - Japanese
+hc02_vc36,Percent; Total population - RACE - One race - Asian - Japanese
+hc01_vc37,Number; Total population - RACE - One race - Asian - Korean
+hc02_vc37,Percent; Total population - RACE - One race - Asian - Korean
+hc01_vc38,Number; Total population - RACE - One race - Asian - Vietnamese
+hc02_vc38,Percent; Total population - RACE - One race - Asian - Vietnamese
+hc01_vc39,Number; Total population - RACE - One race - Asian - Other Asian [1]
+hc02_vc39,Percent; Total population - RACE - One race - Asian - Other Asian [1]
+hc01_vc40,Number; Total population - RACE - One race - Native Hawaiian and Other Pacific Islander
+hc02_vc40,Percent; Total population - RACE - One race - Native Hawaiian and Other Pacific Islander
+hc01_vc41,Number; Total population - RACE - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+hc02_vc41,Percent; Total population - RACE - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+hc01_vc42,Number; Total population - RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+hc02_vc42,Percent; Total population - RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+hc01_vc43,Number; Total population - RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+hc02_vc43,Percent; Total population - RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+hc01_vc44,Number; Total population - RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander [2]
+hc02_vc44,Percent; Total population - RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander [2]
+hc01_vc45,Number; Total population - RACE - One race - Some other race
+hc02_vc45,Percent; Total population - RACE - One race - Some other race
+hc01_vc46,Number; Total population - RACE - Two or more races
+hc02_vc46,Percent; Total population - RACE - Two or more races
+hc01_vc48,Number; Total population - RACE - Race alone or in combination with one or more other races [3] - White
+hc02_vc48,Percent; Total population - RACE - Race alone or in combination with one or more other races [3] - White
+hc01_vc49,Number; Total population - RACE - Race alone or in combination with one or more other races [3] - Black or African American
+hc02_vc49,Percent; Total population - RACE - Race alone or in combination with one or more other races [3] - Black or African American
+hc01_vc50,Number; Total population - RACE - Race alone or in combination with one or more other races [3] - American Indian and Alaska Native
+hc02_vc50,Percent; Total population - RACE - Race alone or in combination with one or more other races [3] - American Indian and Alaska Native
+hc01_vc51,Number; Total population - RACE - Race alone or in combination with one or more other races [3] - Asian
+hc02_vc51,Percent; Total population - RACE - Race alone or in combination with one or more other races [3] - Asian
+hc01_vc52,Number; Total population - RACE - Race alone or in combination with one or more other races [3] - Native Hawaiian and Other Pacific Islander
+hc02_vc52,Percent; Total population - RACE - Race alone or in combination with one or more other races [3] - Native Hawaiian and Other Pacific Islander
+hc01_vc53,Number; Total population - RACE - Race alone or in combination with one or more other races [3] - Some other race
+hc02_vc53,Percent; Total population - RACE - Race alone or in combination with one or more other races [3] - Some other race
+hc01_vc55,Number; HISPANIC OR LATINO AND RACE - Total population
+hc02_vc55,Percent; HISPANIC OR LATINO AND RACE - Total population
+hc01_vc56,Number; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+hc02_vc56,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+hc01_vc57,Number; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican
+hc02_vc57,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican
+hc01_vc58,Number; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican
+hc02_vc58,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican
+hc01_vc59,Number; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban
+hc02_vc59,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban
+hc01_vc60,Number; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino
+hc02_vc60,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino
+hc01_vc61,Number; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino
+hc02_vc61,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino
+hc01_vc62,Number; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+hc02_vc62,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+hc01_vc64,Number; RELATIONSHIP - Total population
+hc02_vc64,Percent; RELATIONSHIP - Total population
+hc01_vc65,Number; RELATIONSHIP - Total population - In households
+hc02_vc65,Percent; RELATIONSHIP - Total population - In households
+hc01_vc66,Number; RELATIONSHIP - Total population - In households - Householder
+hc02_vc66,Percent; RELATIONSHIP - Total population - In households - Householder
+hc01_vc67,Number; RELATIONSHIP - Total population - In households - Spouse
+hc02_vc67,Percent; RELATIONSHIP - Total population - In households - Spouse
+hc01_vc68,Number; RELATIONSHIP - Total population - In households - Child
+hc02_vc68,Percent; RELATIONSHIP - Total population - In households - Child
+hc01_vc69,Number; RELATIONSHIP - Total population - In households - Child - Own child under 18 years
+hc02_vc69,Percent; RELATIONSHIP - Total population - In households - Child - Own child under 18 years
+hc01_vc70,Number; RELATIONSHIP - Total population - In households - Other relatives
+hc02_vc70,Percent; RELATIONSHIP - Total population - In households - Other relatives
+hc01_vc71,Number; RELATIONSHIP - Total population - In households - Other relatives - Under 18 years
+hc02_vc71,Percent; RELATIONSHIP - Total population - In households - Other relatives - Under 18 years
+hc01_vc72,Number; RELATIONSHIP - Total population - In households - Nonrelatives
+hc02_vc72,Percent; RELATIONSHIP - Total population - In households - Nonrelatives
+hc01_vc73,Number; RELATIONSHIP - Total population - In households - Nonrelatives - Unmarried partner
+hc02_vc73,Percent; RELATIONSHIP - Total population - In households - Nonrelatives - Unmarried partner
+hc01_vc74,Number; RELATIONSHIP - Total population - In group quarters
+hc02_vc74,Percent; RELATIONSHIP - Total population - In group quarters
+hc01_vc75,Number; RELATIONSHIP - Total population - In group quarters - Institutionalized population
+hc02_vc75,Percent; RELATIONSHIP - Total population - In group quarters - Institutionalized population
+hc01_vc76,Number; RELATIONSHIP - Total population - In group quarters - Noninstitutionalized population
+hc02_vc76,Percent; RELATIONSHIP - Total population - In group quarters - Noninstitutionalized population
+hc01_vc78,Number; HOUSEHOLDS BY TYPE - Total households
+hc02_vc78,Percent; HOUSEHOLDS BY TYPE - Total households
+hc01_vc79,Number; HOUSEHOLDS BY TYPE - Total households - Family households (families)
+hc02_vc79,Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families)
+hc01_vc80,Number; HOUSEHOLDS BY TYPE - Total households - Family households (families) - With own children under 18 years
+hc02_vc80,Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families) - With own children under 18 years
+hc01_vc81,Number; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Married-couple family
+hc02_vc81,Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Married-couple family
+hc01_vc82,Number; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Married-couple family - With own children under 18 years
+hc02_vc82,Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Married-couple family - With own children under 18 years
+hc01_vc83,"Number; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Female householder, no husband present"
+hc02_vc83,"Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Female householder, no husband present"
+hc01_vc84,"Number; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Female householder, no husband present - With own children under 18 years"
+hc02_vc84,"Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Female householder, no husband present - With own children under 18 years"
+hc01_vc85,Number; HOUSEHOLDS BY TYPE - Total households - Nonfamily households
+hc02_vc85,Percent; HOUSEHOLDS BY TYPE - Total households - Nonfamily households
+hc01_vc86,Number; HOUSEHOLDS BY TYPE - Total households - Nonfamily households - Householder living alone
+hc02_vc86,Percent; HOUSEHOLDS BY TYPE - Total households - Nonfamily households - Householder living alone
+hc01_vc87,Number; HOUSEHOLDS BY TYPE - Total households - Nonfamily households - Householder living alone - Householder 65 years and over
+hc02_vc87,Percent; HOUSEHOLDS BY TYPE - Total households - Nonfamily households - Householder living alone - Householder 65 years and over
+hc01_vc88,Number; HOUSEHOLDS BY TYPE - Total households - Households with individuals under 18 years
+hc02_vc88,Percent; HOUSEHOLDS BY TYPE - Total households - Households with individuals under 18 years
+hc01_vc89,Number; HOUSEHOLDS BY TYPE - Total households - Households with individuals 65 years and over
+hc02_vc89,Percent; HOUSEHOLDS BY TYPE - Total households - Households with individuals 65 years and over
+hc01_vc90,Number; HOUSEHOLDS BY TYPE - Total households - Average household size
+hc02_vc90,Percent; HOUSEHOLDS BY TYPE - Total households - Average household size
+hc01_vc91,Number; HOUSEHOLDS BY TYPE - Total households - Average family size
+hc02_vc91,Percent; HOUSEHOLDS BY TYPE - Total households - Average family size
+hc01_vc93,Number; HOUSING OCCUPANCY - Total housing units
+hc02_vc93,Percent; HOUSING OCCUPANCY - Total housing units
+hc01_vc94,Number; HOUSING OCCUPANCY - Total housing units - Occupied housing units
+hc02_vc94,Percent; HOUSING OCCUPANCY - Total housing units - Occupied housing units
+hc01_vc95,Number; HOUSING OCCUPANCY - Total housing units - Vacant housing units
+hc02_vc95,Percent; HOUSING OCCUPANCY - Total housing units - Vacant housing units
+hc01_vc96,"Number; HOUSING OCCUPANCY - Total housing units - Vacant housing units - For seasonal, recreational, or occasional use"
+hc02_vc96,"Percent; HOUSING OCCUPANCY - Total housing units - Vacant housing units - For seasonal, recreational, or occasional use"
+hc01_vc97,Number; HOUSING OCCUPANCY - Total housing units - Homeowner vacancy rate (percent)
+hc02_vc97,Percent; HOUSING OCCUPANCY - Total housing units - Homeowner vacancy rate (percent)
+hc01_vc98,Number; HOUSING OCCUPANCY - Total housing units - Rental vacancy rate (percent)
+hc02_vc98,Percent; HOUSING OCCUPANCY - Total housing units - Rental vacancy rate (percent)
+hc01_vc100,Number; HOUSING TENURE - Occupied housing units
+hc02_vc100,Percent; HOUSING TENURE - Occupied housing units
+hc01_vc101,Number; HOUSING TENURE - Occupied housing units - Owner-occupied housing units
+hc02_vc101,Percent; HOUSING TENURE - Occupied housing units - Owner-occupied housing units
+hc01_vc102,Number; HOUSING TENURE - Occupied housing units - Renter-occupied housing units
+hc02_vc102,Percent; HOUSING TENURE - Occupied housing units - Renter-occupied housing units
+hc01_vc103,Number; HOUSING TENURE - Occupied housing units - Average household size of owner-occupied unit
+hc02_vc103,Percent; HOUSING TENURE - Occupied housing units - Average household size of owner-occupied unit
+hc01_vc104,Number; HOUSING TENURE - Occupied housing units - Average household size of renter-occupied unit
+hc02_vc104,Percent; HOUSING TENURE - Occupied housing units - Average household size of renter-occupied unit

@@ -1,0 +1,217 @@
+,GEO.id,Id
+0,geo_id2,Id2
+1,geo_display-label,Geography
+2,hc01_vc02,Number; EMPLOYMENT STATUS - Population 16 years and over
+3,hc02_vc02,Percent; EMPLOYMENT STATUS - Population 16 years and over
+4,hc01_vc03,Number; EMPLOYMENT STATUS - Population 16 years and over - In labor force
+5,hc02_vc03,Percent; EMPLOYMENT STATUS - Population 16 years and over - In labor force
+6,hc01_vc04,Number; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force
+7,hc02_vc04,Percent; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force
+8,hc01_vc05,Number; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Employed
+9,hc02_vc05,Percent; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Employed
+10,hc01_vc06,Number; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Unemployed
+11,hc02_vc06,Percent; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Unemployed
+12,hc01_vc07,Number; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Percent of civilian labor force
+13,hc02_vc07,Percent; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Percent of civilian labor force
+14,hc01_vc08,Number; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Armed Forces
+15,hc02_vc08,Percent; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Armed Forces
+16,hc01_vc09,Number; EMPLOYMENT STATUS - Population 16 years and over - Not in labor force
+17,hc02_vc09,Percent; EMPLOYMENT STATUS - Population 16 years and over - Not in labor force
+18,hc01_vc10,Number; EMPLOYMENT STATUS - Females 16 years and over
+19,hc02_vc10,Percent; EMPLOYMENT STATUS - Females 16 years and over
+20,hc01_vc11,Number; EMPLOYMENT STATUS - Females 16 years and over - In labor force
+21,hc02_vc11,Percent; EMPLOYMENT STATUS - Females 16 years and over - In labor force
+22,hc01_vc12,Number; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force
+23,hc02_vc12,Percent; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force
+24,hc01_vc13,Number; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force - Employed
+25,hc02_vc13,Percent; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force - Employed
+26,hc01_vc14,Number; EMPLOYMENT STATUS - Own children under 6 years
+27,hc02_vc14,Percent; EMPLOYMENT STATUS - Own children under 6 years
+28,hc01_vc15,Number; EMPLOYMENT STATUS - Own children under 6 years - All parents in family in labor force
+29,hc02_vc15,Percent; EMPLOYMENT STATUS - Own children under 6 years - All parents in family in labor force
+30,hc01_vc17,Number; COMMUTING TO WORK - Workers 16 years and over
+31,hc02_vc17,Percent; COMMUTING TO WORK - Workers 16 years and over
+32,hc01_vc18,"Number; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- drove alone"
+33,hc02_vc18,"Percent; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- drove alone"
+34,hc01_vc19,"Number; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- carpooled"
+35,hc02_vc19,"Percent; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- carpooled"
+36,hc01_vc20,Number; COMMUTING TO WORK - Workers 16 years and over - Public transportation (including taxicab)
+37,hc02_vc20,Percent; COMMUTING TO WORK - Workers 16 years and over - Public transportation (including taxicab)
+38,hc01_vc21,Number; COMMUTING TO WORK - Workers 16 years and over - Walked
+39,hc02_vc21,Percent; COMMUTING TO WORK - Workers 16 years and over - Walked
+40,hc01_vc22,Number; COMMUTING TO WORK - Workers 16 years and over - Other means
+41,hc02_vc22,Percent; COMMUTING TO WORK - Workers 16 years and over - Other means
+42,hc01_vc23,Number; COMMUTING TO WORK - Workers 16 years and over - Worked at home
+43,hc02_vc23,Percent; COMMUTING TO WORK - Workers 16 years and over - Worked at home
+44,hc01_vc24,Number; COMMUTING TO WORK - Workers 16 years and over - Mean travel time to work (minutes)
+45,hc02_vc24,Percent; COMMUTING TO WORK - Workers 16 years and over - Mean travel time to work (minutes)
+46,hc01_vc25,Number; Employed civilian population 16 years and over
+47,hc02_vc25,Percent; Employed civilian population 16 years and over
+48,hc01_vc27,"Number; Employed civilian population 16 years and over - OCCUPATION - Management, professional, and related occupations"
+49,hc02_vc27,"Percent; Employed civilian population 16 years and over - OCCUPATION - Management, professional, and related occupations"
+50,hc01_vc28,Number; Employed civilian population 16 years and over - OCCUPATION - Service occupations
+51,hc02_vc28,Percent; Employed civilian population 16 years and over - OCCUPATION - Service occupations
+52,hc01_vc29,Number; Employed civilian population 16 years and over - OCCUPATION - Sales and office occupations
+53,hc02_vc29,Percent; Employed civilian population 16 years and over - OCCUPATION - Sales and office occupations
+54,hc01_vc30,"Number; Employed civilian population 16 years and over - OCCUPATION - Farming, fishing, and forestry occupations"
+55,hc02_vc30,"Percent; Employed civilian population 16 years and over - OCCUPATION - Farming, fishing, and forestry occupations"
+56,hc01_vc31,"Number; Employed civilian population 16 years and over - OCCUPATION - Construction, extraction, and maintenance occupations"
+57,hc02_vc31,"Percent; Employed civilian population 16 years and over - OCCUPATION - Construction, extraction, and maintenance occupations"
+58,hc01_vc32,"Number; Employed civilian population 16 years and over - OCCUPATION - Production, transportation, and material moving occupations"
+59,hc02_vc32,"Percent; Employed civilian population 16 years and over - OCCUPATION - Production, transportation, and material moving occupations"
+60,hc01_vc34,"Number; Employed civilian population 16 years and over - INDUSTRY - Agriculture, forestry, fishing and hunting, and mining"
+61,hc02_vc34,"Percent; Employed civilian population 16 years and over - INDUSTRY - Agriculture, forestry, fishing and hunting, and mining"
+62,hc01_vc35,Number; Employed civilian population 16 years and over - INDUSTRY - Construction
+63,hc02_vc35,Percent; Employed civilian population 16 years and over - INDUSTRY - Construction
+64,hc01_vc36,Number; Employed civilian population 16 years and over - INDUSTRY - Manufacturing
+65,hc02_vc36,Percent; Employed civilian population 16 years and over - INDUSTRY - Manufacturing
+66,hc01_vc37,Number; Employed civilian population 16 years and over - INDUSTRY - Wholesale trade
+67,hc02_vc37,Percent; Employed civilian population 16 years and over - INDUSTRY - Wholesale trade
+68,hc01_vc38,Number; Employed civilian population 16 years and over - INDUSTRY - Retail trade
+69,hc02_vc38,Percent; Employed civilian population 16 years and over - INDUSTRY - Retail trade
+70,hc01_vc39,"Number; Employed civilian population 16 years and over - INDUSTRY - Transportation and warehousing, and utilities"
+71,hc02_vc39,"Percent; Employed civilian population 16 years and over - INDUSTRY - Transportation and warehousing, and utilities"
+72,hc01_vc40,Number; Employed civilian population 16 years and over - INDUSTRY - Information
+73,hc02_vc40,Percent; Employed civilian population 16 years and over - INDUSTRY - Information
+74,hc01_vc41,"Number; Employed civilian population 16 years and over - INDUSTRY - Finance, insurance, real estate, and rental and leasing"
+75,hc02_vc41,"Percent; Employed civilian population 16 years and over - INDUSTRY - Finance, insurance, real estate, and rental and leasing"
+76,hc01_vc42,"Number; Employed civilian population 16 years and over - INDUSTRY - Professional, scientific, management, administrative, and waste management services"
+77,hc02_vc42,"Percent; Employed civilian population 16 years and over - INDUSTRY - Professional, scientific, management, administrative, and waste management services"
+78,hc01_vc43,"Number; Employed civilian population 16 years and over - INDUSTRY - Educational, health and social services"
+79,hc02_vc43,"Percent; Employed civilian population 16 years and over - INDUSTRY - Educational, health and social services"
+80,hc01_vc44,"Number; Employed civilian population 16 years and over - INDUSTRY - Arts, entertainment, recreation, accommodation and food services"
+81,hc02_vc44,"Percent; Employed civilian population 16 years and over - INDUSTRY - Arts, entertainment, recreation, accommodation and food services"
+82,hc01_vc45,Number; Employed civilian population 16 years and over - INDUSTRY - Other services (except public administration)
+83,hc02_vc45,Percent; Employed civilian population 16 years and over - INDUSTRY - Other services (except public administration)
+84,hc01_vc46,Number; Employed civilian population 16 years and over - INDUSTRY - Public administration
+85,hc02_vc46,Percent; Employed civilian population 16 years and over - INDUSTRY - Public administration
+86,hc01_vc48,Number; Employed civilian population 16 years and over - CLASS OF WORKER - Private wage and salary workers
+87,hc02_vc48,Percent; Employed civilian population 16 years and over - CLASS OF WORKER - Private wage and salary workers
+88,hc01_vc49,Number; Employed civilian population 16 years and over - CLASS OF WORKER - Government workers
+89,hc02_vc49,Percent; Employed civilian population 16 years and over - CLASS OF WORKER - Government workers
+90,hc01_vc50,Number; Employed civilian population 16 years and over - CLASS OF WORKER - Self-employed workers in own not incorporated business
+91,hc02_vc50,Percent; Employed civilian population 16 years and over - CLASS OF WORKER - Self-employed workers in own not incorporated business
+92,hc01_vc51,Number; Employed civilian population 16 years and over - CLASS OF WORKER - Unpaid family workers
+93,hc02_vc51,Percent; Employed civilian population 16 years and over - CLASS OF WORKER - Unpaid family workers
+94,hc01_vc53,Number; INCOME IN 1999 - Households
+95,hc02_vc53,Percent; INCOME IN 1999 - Households
+96,hc01_vc54,"Number; INCOME IN 1999 - Households - Less than $10,000"
+97,hc02_vc54,"Percent; INCOME IN 1999 - Households - Less than $10,000"
+98,hc01_vc55,"Number; INCOME IN 1999 - Households - $10,000 to $14,999"
+99,hc02_vc55,"Percent; INCOME IN 1999 - Households - $10,000 to $14,999"
+100,hc01_vc56,"Number; INCOME IN 1999 - Households - $15,000 to $24,999"
+101,hc02_vc56,"Percent; INCOME IN 1999 - Households - $15,000 to $24,999"
+102,hc01_vc57,"Number; INCOME IN 1999 - Households - $25,000 to $34,999"
+103,hc02_vc57,"Percent; INCOME IN 1999 - Households - $25,000 to $34,999"
+104,hc01_vc58,"Number; INCOME IN 1999 - Households - $35,000 to $49,999"
+105,hc02_vc58,"Percent; INCOME IN 1999 - Households - $35,000 to $49,999"
+106,hc01_vc59,"Number; INCOME IN 1999 - Households - $50,000 to $74,999"
+107,hc02_vc59,"Percent; INCOME IN 1999 - Households - $50,000 to $74,999"
+108,hc01_vc60,"Number; INCOME IN 1999 - Households - $75,000 to $99,999"
+109,hc02_vc60,"Percent; INCOME IN 1999 - Households - $75,000 to $99,999"
+110,hc01_vc61,"Number; INCOME IN 1999 - Households - $100,000 to $149,999"
+111,hc02_vc61,"Percent; INCOME IN 1999 - Households - $100,000 to $149,999"
+112,hc01_vc62,"Number; INCOME IN 1999 - Households - $150,000 to $199,999"
+113,hc02_vc62,"Percent; INCOME IN 1999 - Households - $150,000 to $199,999"
+114,hc01_vc63,"Number; INCOME IN 1999 - Households - $200,000 or more"
+115,hc02_vc63,"Percent; INCOME IN 1999 - Households - $200,000 or more"
+116,hc01_vc64,Number; INCOME IN 1999 - Households - Median household income (dollars)
+117,hc02_vc64,Percent; INCOME IN 1999 - Households - Median household income (dollars)
+118,hc01_vc65,Number; INCOME IN 1999 - Households - With earnings
+119,hc02_vc65,Percent; INCOME IN 1999 - Households - With earnings
+120,hc01_vc66,Number; INCOME IN 1999 - Households - With earnings - Mean earnings (dollars)
+121,hc02_vc66,Percent; INCOME IN 1999 - Households - With earnings - Mean earnings (dollars)
+122,hc01_vc67,Number; INCOME IN 1999 - Households - With Social Security income
+123,hc02_vc67,Percent; INCOME IN 1999 - Households - With Social Security income
+124,hc01_vc68,Number; INCOME IN 1999 - Households - With Social Security income - Mean Social Security income (dollars)
+125,hc02_vc68,Percent; INCOME IN 1999 - Households - With Social Security income - Mean Social Security income (dollars)
+126,hc01_vc69,Number; INCOME IN 1999 - Households - With Supplemental Security Income
+127,hc02_vc69,Percent; INCOME IN 1999 - Households - With Supplemental Security Income
+128,hc01_vc70,Number; INCOME IN 1999 - Households - With Supplemental Security Income - Mean Supplemental Security Income (dollars)
+129,hc02_vc70,Percent; INCOME IN 1999 - Households - With Supplemental Security Income - Mean Supplemental Security Income (dollars)
+130,hc01_vc71,Number; INCOME IN 1999 - Households - With public assistance income
+131,hc02_vc71,Percent; INCOME IN 1999 - Households - With public assistance income
+132,hc01_vc72,Number; INCOME IN 1999 - Households - With public assistance income - Mean public assistance income (dollars)
+133,hc02_vc72,Percent; INCOME IN 1999 - Households - With public assistance income - Mean public assistance income (dollars)
+134,hc01_vc73,Number; INCOME IN 1999 - Households - With retirement income
+135,hc02_vc73,Percent; INCOME IN 1999 - Households - With retirement income
+136,hc01_vc74,Number; INCOME IN 1999 - Households - With retirement income - Mean retirement income (dollars)
+137,hc02_vc74,Percent; INCOME IN 1999 - Households - With retirement income - Mean retirement income (dollars)
+138,hc01_vc75,Number; INCOME IN 1999 - Families
+139,hc02_vc75,Percent; INCOME IN 1999 - Families
+140,hc01_vc76,"Number; INCOME IN 1999 - Families - Less than $10,000"
+141,hc02_vc76,"Percent; INCOME IN 1999 - Families - Less than $10,000"
+142,hc01_vc77,"Number; INCOME IN 1999 - Families - $10,000 to $14,999"
+143,hc02_vc77,"Percent; INCOME IN 1999 - Families - $10,000 to $14,999"
+144,hc01_vc78,"Number; INCOME IN 1999 - Families - $15,000 to $24,999"
+145,hc02_vc78,"Percent; INCOME IN 1999 - Families - $15,000 to $24,999"
+146,hc01_vc79,"Number; INCOME IN 1999 - Families - $25,000 to $34,999"
+147,hc02_vc79,"Percent; INCOME IN 1999 - Families - $25,000 to $34,999"
+148,hc01_vc80,"Number; INCOME IN 1999 - Families - $35,000 to $49,999"
+149,hc02_vc80,"Percent; INCOME IN 1999 - Families - $35,000 to $49,999"
+150,hc01_vc81,"Number; INCOME IN 1999 - Families - $50,000 to $74,999"
+151,hc02_vc81,"Percent; INCOME IN 1999 - Families - $50,000 to $74,999"
+152,hc01_vc82,"Number; INCOME IN 1999 - Families - $75,000 to $99,999"
+153,hc02_vc82,"Percent; INCOME IN 1999 - Families - $75,000 to $99,999"
+154,hc01_vc83,"Number; INCOME IN 1999 - Families - $100,000 to $149,999"
+155,hc02_vc83,"Percent; INCOME IN 1999 - Families - $100,000 to $149,999"
+156,hc01_vc84,"Number; INCOME IN 1999 - Families - $150,000 to $199,999"
+157,hc02_vc84,"Percent; INCOME IN 1999 - Families - $150,000 to $199,999"
+158,hc01_vc85,"Number; INCOME IN 1999 - Families - $200,000 or more"
+159,hc02_vc85,"Percent; INCOME IN 1999 - Families - $200,000 or more"
+160,hc01_vc86,Number; INCOME IN 1999 - Families - Median family income (dollars)
+161,hc02_vc86,Percent; INCOME IN 1999 - Families - Median family income (dollars)
+162,hc01_vc87,Number; INCOME IN 1999 - Families - Per capita income (dollars)
+163,hc02_vc87,Percent; INCOME IN 1999 - Families - Per capita income (dollars)
+164,hc01_vc89,"Number; INCOME IN 1999 - Families - Median earnings (dollars): - Male full-time, year-round workers"
+165,hc02_vc89,"Percent; INCOME IN 1999 - Families - Median earnings (dollars): - Male full-time, year-round workers"
+166,hc01_vc90,"Number; INCOME IN 1999 - Families - Median earnings (dollars): - Female full-time, year-round workers"
+167,hc02_vc90,"Percent; INCOME IN 1999 - Families - Median earnings (dollars): - Female full-time, year-round workers"
+168,hc01_vc92,Number; POVERTY STATUS IN 1999 (below poverty level) - Families
+169,hc02_vc92,Percent; POVERTY STATUS IN 1999 (below poverty level) - Families
+170,hc01_vc93,Number; POVERTY STATUS IN 1999 (below poverty level) - Families - Percent below poverty level
+171,hc02_vc93,Percent; POVERTY STATUS IN 1999 (below poverty level) - Families - Percent below poverty level
+172,hc01_vc94,Number; POVERTY STATUS IN 1999 (below poverty level) - Families - With related children under 18 years
+173,hc02_vc94,Percent; POVERTY STATUS IN 1999 (below poverty level) - Families - With related children under 18 years
+174,hc01_vc95,Number; POVERTY STATUS IN 1999 (below poverty level) - Families - With related children under 18 years - Percent below poverty level
+175,hc02_vc95,Percent; POVERTY STATUS IN 1999 (below poverty level) - Families - With related children under 18 years - Percent below poverty level
+176,hc01_vc96,Number; POVERTY STATUS IN 1999 (below poverty level) - Families - With related children under 18 years - With related children under 5 years
+177,hc02_vc96,Percent; POVERTY STATUS IN 1999 (below poverty level) - Families - With related children under 18 years - With related children under 5 years
+178,hc01_vc97,Number; POVERTY STATUS IN 1999 (below poverty level) - Families - With related children under 18 years - With related children under 5 years - Percent below poverty level
+179,hc02_vc97,Percent; POVERTY STATUS IN 1999 (below poverty level) - Families - With related children under 18 years - With related children under 5 years - Percent below poverty level
+180,hc01_vc98,"Number; POVERTY STATUS IN 1999 (below poverty level) - Families with female householder, no husband present"
+181,hc02_vc98,"Percent; POVERTY STATUS IN 1999 (below poverty level) - Families with female householder, no husband present"
+182,hc01_vc99,"Number; POVERTY STATUS IN 1999 (below poverty level) - Families with female householder, no husband present - Percent below poverty level"
+183,hc02_vc99,"Percent; POVERTY STATUS IN 1999 (below poverty level) - Families with female householder, no husband present - Percent below poverty level"
+184,hc01_vc100,"Number; POVERTY STATUS IN 1999 (below poverty level) - Families with female householder, no husband present - With related children under 18 years"
+185,hc02_vc100,"Percent; POVERTY STATUS IN 1999 (below poverty level) - Families with female householder, no husband present - With related children under 18 years"
+186,hc01_vc101,"Number; POVERTY STATUS IN 1999 (below poverty level) - Families with female householder, no husband present - With related children under 18 years - Percent below poverty level"
+187,hc02_vc101,"Percent; POVERTY STATUS IN 1999 (below poverty level) - Families with female householder, no husband present - With related children under 18 years - Percent below poverty level"
+188,hc01_vc102,"Number; POVERTY STATUS IN 1999 (below poverty level) - Families with female householder, no husband present - With related children under 18 years - With related children under 5 years"
+189,hc02_vc102,"Percent; POVERTY STATUS IN 1999 (below poverty level) - Families with female householder, no husband present - With related children under 18 years - With related children under 5 years"
+190,hc01_vc103,"Number; POVERTY STATUS IN 1999 (below poverty level) - Families with female householder, no husband present - With related children under 18 years - With related children under 5 years - Percent below poverty level"
+191,hc02_vc103,"Percent; POVERTY STATUS IN 1999 (below poverty level) - Families with female householder, no husband present - With related children under 18 years - With related children under 5 years - Percent below poverty level"
+192,hc01_vc104,Number; POVERTY STATUS IN 1999 (below poverty level) - Individuals
+193,hc02_vc104,Percent; POVERTY STATUS IN 1999 (below poverty level) - Individuals
+194,hc01_vc105,Number; POVERTY STATUS IN 1999 (below poverty level) - Individuals - Percent below poverty level
+195,hc02_vc105,Percent; POVERTY STATUS IN 1999 (below poverty level) - Individuals - Percent below poverty level
+196,hc01_vc106,Number; POVERTY STATUS IN 1999 (below poverty level) - Individuals - 18 years and over
+197,hc02_vc106,Percent; POVERTY STATUS IN 1999 (below poverty level) - Individuals - 18 years and over
+198,hc01_vc107,Number; POVERTY STATUS IN 1999 (below poverty level) - Individuals - 18 years and over - Percent below poverty level
+199,hc02_vc107,Percent; POVERTY STATUS IN 1999 (below poverty level) - Individuals - 18 years and over - Percent below poverty level
+200,hc01_vc108,Number; POVERTY STATUS IN 1999 (below poverty level) - Individuals - 18 years and over - 65 years and over
+201,hc02_vc108,Percent; POVERTY STATUS IN 1999 (below poverty level) - Individuals - 18 years and over - 65 years and over
+202,hc01_vc109,Number; POVERTY STATUS IN 1999 (below poverty level) - Individuals - 18 years and over - 65 years and over - Percent below poverty level
+203,hc02_vc109,Percent; POVERTY STATUS IN 1999 (below poverty level) - Individuals - 18 years and over - 65 years and over - Percent below poverty level
+204,hc01_vc110,Number; POVERTY STATUS IN 1999 (below poverty level) - Individuals - Related children under 18 years
+205,hc02_vc110,Percent; POVERTY STATUS IN 1999 (below poverty level) - Individuals - Related children under 18 years
+206,hc01_vc111,Number; POVERTY STATUS IN 1999 (below poverty level) - Individuals - Related children under 18 years - Percent below poverty level
+207,hc02_vc111,Percent; POVERTY STATUS IN 1999 (below poverty level) - Individuals - Related children under 18 years - Percent below poverty level
+208,hc01_vc112,Number; POVERTY STATUS IN 1999 (below poverty level) - Individuals - Related children under 18 years - Related children 5 to 17 years
+209,hc02_vc112,Percent; POVERTY STATUS IN 1999 (below poverty level) - Individuals - Related children under 18 years - Related children 5 to 17 years
+210,hc01_vc113,Number; POVERTY STATUS IN 1999 (below poverty level) - Individuals - Related children under 18 years - Related children 5 to 17 years - Percent below poverty level
+211,hc02_vc113,Percent; POVERTY STATUS IN 1999 (below poverty level) - Individuals - Related children under 18 years - Related children 5 to 17 years - Percent below poverty level
+212,hc01_vc114,Number; POVERTY STATUS IN 1999 (below poverty level) - Individuals - Unrelated individuals 15 years and over
+213,hc02_vc114,Percent; POVERTY STATUS IN 1999 (below poverty level) - Individuals - Unrelated individuals 15 years and over
+214,hc01_vc115,Number; POVERTY STATUS IN 1999 (below poverty level) - Individuals - Unrelated individuals 15 years and over - Percent below poverty level
+215,hc02_vc115,Percent; POVERTY STATUS IN 1999 (below poverty level) - Individuals - Unrelated individuals 15 years and over - Percent below poverty level
